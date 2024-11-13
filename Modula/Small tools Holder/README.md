@@ -2,5 +2,5 @@
 
 A holder for small tools: tweezers, dentist tools and scalpel with replaceable blades
 
-![Modula](module.digital.caliper.holder.photo.jpg)
-![Modula](module.digital.caliper.holder.jpg)
+![Modula](small.tools.photo.jpg)
+![Modula](small.tools.jpg)
