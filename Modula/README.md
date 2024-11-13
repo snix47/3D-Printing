@@ -11,3 +11,5 @@ The module snaps on to the next module with dovetales, and the screw holes can b
 Finally, You have the choice of designing Your own adapter tailored to Your needs i.e, pegboard, inches, square holes etc, and modules for Your tools. We should probably should put these files on Printables.
 
 ![Modula](collage.modular.tool.holder.system.01.jpg)
+![Modula](collage.modular.tool.holder.system.02.jpg)
+![Modula](collage.modular.tool.holder.system.03.jpg)
