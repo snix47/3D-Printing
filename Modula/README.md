@@ -1,6 +1,6 @@
 # MODULA a module based tool holder system
 
-The idea is, one adapter plate (metric/imperial/plain) that attaches to a module.
+The idea is one adapter plate (metric/imperial/plain) that attaches to a module.
 Then everyone can share the modules worldwide, and just adjust the adapter plate for their environment.
 
 The system works with PEG/Tool boards and plain wall/board surfaces (attached with screws).
