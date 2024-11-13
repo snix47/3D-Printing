@@ -1,4 +1,4 @@
-# MODULA a module based tool holder system
+# MODULA - a module based tool holder system
 
 The idea is one adapter plate (metric/imperial/plain) that attaches to a module.
 Then everyone can share the modules worldwide, and just adjust the adapter plate for their environment.
