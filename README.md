@@ -1,4 +1,4 @@
 # 3D-Printing
-This is where You find my cads n print files
+This is where You find my cad n .stl files for my own prints.
 
-Please have a look at the Modula storage system I´ve made.
+Have a look at the Modula storage system I´ve made.
