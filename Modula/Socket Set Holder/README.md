@@ -2,5 +2,5 @@
 
 A Lidl socket set holder
 
-![Modula](Lidl.socket.kit.holder.photo.jpg)
-![Modula](Lidl.socket.kit.holder.jpg)
+![Modula](Lidl.socket.set.holder.jpg)
+![Modula](Lidl.socket.set.holder.jpg)
