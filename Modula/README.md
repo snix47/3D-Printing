@@ -8,7 +8,7 @@ The adapter I´ve made is compatible with peg/tool boards from Biltema, Jula, Cl
 
 The module snaps on to the next module with dovetales, and the screw holes can be keept in this module hence giving more space for tool holding without need for screw holes through the whole design. 
 
-Finally, You have the choice of designing Your own adapter tailored to Your needs i.e, pegboard, inches, square holes etc, and modules for Your tools. We should probably should put these files on [Printables](https://www.printables.com/@Rille_111344/models).
+Finally, You have the choice of designing Your own adapter tailored to Your needs i.e, pegboard, inches, square holes etc, and modules for Your tools. We should probably put these files here on [Printables](https://www.printables.com/@Rille_111344/models).
 
 ![Modula](collage.modular.tool.holder.system.01.jpg)
 ![Modula](collage.modular.tool.holder.system.02.jpg)
